@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
