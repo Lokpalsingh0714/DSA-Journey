@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Combinatorics
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
