@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0049-group-anagrams) |
+| [1143-longest-common-subsequence](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
