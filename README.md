@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Lokpalsingh0714/DSA-Journey/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 <!---LeetCode Topics End-->
